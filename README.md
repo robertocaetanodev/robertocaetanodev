@@ -2,6 +2,14 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=100&section=header&reversal=true&text=Ol%C3%A1,%20eu%20sou%20Roberto%20Caetano!%20%F0%9F%A4%99%F0%9F%8F%BB&fontSize=43&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&animation=twinkling&descSize=16&descAlign=50&descAlignY=50&textBg=false&theme=radical"  />
 </div>
 
+<div align="center">
+
+### <h2>☕ Backend Java Developer</h2> 
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3BA4F2&center=true&vCenter=true&width=700&lines=Backend+Java+Developer;Spring+Boot+Developer;REST+API+Developer;Always+Learning+New+Technologies"/>
+
+</div>
+
 ###
 
 <br clear="both">
